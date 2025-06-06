@@ -22,7 +22,7 @@ export const data = [
         option1: "Cebu",
         option2: "Davao",
         option3: "Manila",
-        option4: "Quezen",
+        option4: "Quezon",
         answer: 3,
     },
 

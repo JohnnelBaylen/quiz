@@ -1,4 +1,4 @@
-import Content from "../components/Content.jsx"
+import Content from "@components/Content.jsx"
 
 function Root(){
     return(
