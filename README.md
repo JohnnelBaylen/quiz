@@ -3,7 +3,7 @@
 ## Installion
 
 - git clone repository
-- cd ```<file name>```
+- cd ```<file_name>```
 
 ```git 
 pnpm install
