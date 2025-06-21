@@ -1,7 +1,8 @@
 import React, { useState } from "react";
-import { data } from '@data/data.js'; 
 import { useRef } from "react";
- 
+
+import { data } from '@data/data.js'; 
+
 const Content = () => {
 
     let [index,setIndex] = useState(0);
