@@ -1,9 +1,8 @@
 import Content from "@components/Content.jsx"
 
-function Root(){
+export default function Root(){
     return(
         <Content/>
     );
 }
 
-export default Root;
